@@ -1,0 +1,29 @@
+[
+  {
+    "trackname": [
+      "trackname.kn5",
+      {
+        "ai": ["fast_lane.ai", "pit_lane.ai"],
+        "data": [
+          "audio_sources.ini",
+          "cameras.ini",
+          "crew.ini",
+          "groove.ini",
+          "lighting.ini",
+          "surfaces.ini"
+        ],
+        "ui": ["ui_track.json", "outline.png", "preview.png"]
+      }
+    ]
+  },
+  {
+    "project": [
+      "project.blend",
+      {
+        "assets": [],
+        "textures": [],
+        "references": []
+      }
+    ]
+  }
+]
